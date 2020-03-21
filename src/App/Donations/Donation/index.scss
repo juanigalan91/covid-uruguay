@@ -3,6 +3,7 @@
     width: 70%;
     align-items: center;
     min-height: 300px;
+    margin: 0 auto $base-spacing * 3 auto;
 
     &__title {
         margin: -$base-spacing auto $base-spacing * 2 auto !important;
@@ -16,6 +17,18 @@
         color: $light-grey;
         line-height: 1.4;
         margin-bottom: $base-spacing * 3;
+    }
+
+    &__image {
+        max-width: 268px;
+    }
+
+    @media(max-width: $medium-resolution) {
+        width: 95%;
+    }
+
+    @media(max-width: $high-resolution) {
+        width: 95%;
     }
 
     @media(max-width: $tablet-resolution) {
