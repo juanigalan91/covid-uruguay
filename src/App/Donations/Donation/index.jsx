@@ -8,11 +8,11 @@ import { translate } from '../../../translations';
 const CLASSNAME = 'donation';
 const Donation = (props) => {
     const { lang } = React.useContext(AppContext);
-    const { name, image, description, link, tweet } = props;
+    const { name, logo, description, link, tweet, image } = props;
 
     return (
         <Card className={CLASSNAME}>
-            <img className={`${CLASSNAME}__image`} src={image} alt={name} />
+            <img className={`${CLASSNAME}__logo`} src={logo} alt={name} />
             <div className={`${CLASSNAME}__content`}>
                 { name && <Title className={`${CLASSNAME}__title`} importance={2} theme="dark">{name}</Title> }
                 { description && <p className={`${CLASSNAME}__description`} dangerouslySetInnerHTML={{ __html: description[lang] }} /> }
@@ -28,6 +28,9 @@ const Donation = (props) => {
                         <div className={`${CLASSNAME}__tweet`} dangerouslySetInnerHTML={{ __html: tweet }}>
                         </div>
                     )
+                }
+                {
+                    image && <img className={`${CLASSNAME}__image`} src={image} alt={name} />
                 }
             </div>
         </Card>

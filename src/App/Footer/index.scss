@@ -1,0 +1,27 @@
+.footer {
+    @extend .container;
+    padding-top: 0;
+
+    &__logo {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+        img {
+            width: 10%;
+            border-radius: 50%;
+            margin-bottom: $base-spacing * 2;
+
+            @media(max-width: $medium-resolution) {
+                width: 30%;
+            }
+        }
+    }
+
+    &__disclaimer {
+        color: $light-grey;
+        width: 45%;
+        line-height: 1.6;
+        text-align: center;
+    }
+}

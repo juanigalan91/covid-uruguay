@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Codo a codo",
             "entity": "Mercado Libre",
-            "image": "https://http2.mlstatic.com/frontend-assets/ui-navigation/5.5.0-beta-1/mercadolibre/logo__large_plus@2x.png",
+            "logo": "https://http2.mlstatic.com/frontend-assets/ui-navigation/5.5.0-beta-1/mercadolibre/logo__large_plus@2x.png",
             "description": {
                 "es_ES": "Desde Mercado Libre junto al Ministerio de Economía y Finanzas y el Ministerio de Salud Pública lanzamos esta campaña de recaudación de fondos para el Plan Nacional Coronavirus. <br/>Por cada donación recibida hasta el 30 de marzo de 2020, Mercado Libre duplicará el monto donado para apoyar la iniciativa."
             },
@@ -14,7 +14,7 @@
             "id": 2,
             "name": "Sistema Nacional de Emergencias",
             "entity": "Gobierno Uruguayo",
-            "image": "https://pbs.twimg.com/profile_images/1154827652877967360/e8qYyFaT_400x400.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/1154827652877967360/e8qYyFaT_400x400.jpg",
             "description": {
                 "es_ES": "Frente a iniciativas de la ciudadanía de colaborar en el marco de esta emergencia sanitaria, se han puesto a disposición 2 cuentas para la gestión de donaciones para compra de instrumental médico y sanitario: <br/><br/><b>BROU CC $ 1556713-30</b> <br/><b>BROU CC U$S 1556713-29</b>"
             },
@@ -24,8 +24,18 @@
             "id": 3,
             "name": "Techo - Uruguay",
             "entity": "Techo - Uruguay",
-            "image": "https://pbs.twimg.com/profile_images/1219632249584390145/DGBuQxNV_400x400.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/1219632249584390145/DGBuQxNV_400x400.jpg",
             "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Ante la situación de <a href=\"https://twitter.com/hashtag/emergencia?src=hash&amp;ref_src=twsrc%5Etfw\">#emergencia</a>; solicitamos el apoyo de <a href=\"https://twitter.com/hashtag/empresas?src=hash&amp;ref_src=twsrc%5Etfw\">#empresas</a> que puedan realizar donaciones de insumos de higiene con el objetivo de mitigar la expansión del <br>COVID- 19 entre las 580 <a href=\"https://twitter.com/hashtag/familias?src=hash&amp;ref_src=twsrc%5Etfw\">#familias</a> con las que trabajamos. <br><br>Por donaciones👉comunicacion.uruguay@techo.org <a href=\"https://t.co/EvEiof722p\">pic.twitter.com/EvEiof722p</a></p>&mdash; TECHO - Uruguay (@TECHOuy) <a href=\"https://twitter.com/TECHOuy/status/1240701281984892932?ref_src=twsrc%5Etfw\">March 19, 2020</a></blockquote>"
+        },
+        {
+            "id": 4,
+            "name": "Banco de Alimentos de Uruguay",
+            "entity": "Banco de Alimentos de Uruguay",
+            "description": {
+                "es_ES": "El Banco de alimentos de Uruguay está recibiendo donaciones para distribuir entre sus beneficiaros. <br/>Si tenés un negocio y lamentablemente tenés que cerrar, contactate con ellos."
+            },
+            "logo": "https://pbs.twimg.com/profile_images/378800000149791209/09feff7da57013214c9ab02ad2ea0c5a_400x400.jpeg",
+            "image": "https://pbs.twimg.com/media/ETfHGEEWAAYHaH1?format=jpg&name=small"
         }
     ]
 }
