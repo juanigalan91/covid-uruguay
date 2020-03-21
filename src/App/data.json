@@ -1,0 +1,14 @@
+{
+    "donations": [
+        {
+            "id": 1,
+            "name": "Codo a codo",
+            "entity": "Mercado Libre",
+            "image": "https://http2.mlstatic.com/frontend-assets/ui-navigation/5.5.0-beta-1/mercadolibre/logo__large_plus@2x.png",
+            "description": {
+                "es_ES": "Desde Mercado Libre junto al Ministerio de Economía y Finanzas y el Ministerio de Salud Pública lanzamos esta campaña de recaudación de fondos para el Plan Nacional Coronavirus. \nPor cada donación recibida hasta el 30 de marzo de 2020, Mercado Libre duplicará el monto donado para apoyar la iniciativa."
+            },
+            "link": "https://www.mercadolibre.com.uy/l/codo-a-codo-donar"
+        }
+    ]
+}

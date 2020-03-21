@@ -1,0 +1,24 @@
+.donation {
+    display: flex;
+    width: 70%;
+    align-items: center;
+    height: 200px;
+
+    @media(max-width: $tablet-resolution) {
+        width: 100%;
+        margin-bottom: $base-spacing * 2;
+    }
+
+    &__title {
+        margin: -$base-spacing auto $base-spacing * 2 auto !important;
+    }
+
+    &__content {
+        margin-left: $base-spacing * 4;
+    }
+
+    &__description {
+        color: $light-grey;
+        line-height: 1.4;
+    }
+}
