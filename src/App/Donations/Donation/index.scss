@@ -40,12 +40,17 @@
         &__logo {
             margin: 0 auto;
             display: block;
+            max-width: 130px;
         }
 
         &__content {
             margin-left: 0;
             margin-top: $base-spacing * 4;
             text-align: center;
+        }
+
+        &__description {
+            line-height: 1.2;
         }
     }
 }

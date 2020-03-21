@@ -9,7 +9,7 @@ const Footer = () => {
     return (
         <footer className={CLASSNAME}>
             <div className={`${CLASSNAME}__logo`}>
-                <img alt={translate('ILEX_LOGO', lang)} src="icon.png" />
+                <img alt={translate('URUGUAY_SUN', lang)} src="icon.png" />
                 <span className={`${CLASSNAME}__disclaimer`}>{translate('DISCLAIMER', lang)}</span>
             </div>
         </footer>
