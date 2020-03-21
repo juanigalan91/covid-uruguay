@@ -23,5 +23,9 @@
         width: 45%;
         line-height: 1.6;
         text-align: center;
+
+        @media(max-width: $medium-resolution) {
+            width: 60%;
+        }
     }
 }
