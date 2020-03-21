@@ -1,10 +1,11 @@
 import React from 'react';
+import { Header } from './Header';
 import { AppContext, defaults } from '../components/Context';
 
 const App = () => {
     return (
         <AppContext.Provider value={defaults}>
-            <div />
+            <Header />
         </AppContext.Provider>
     );
 };

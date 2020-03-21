@@ -20,9 +20,11 @@
     margin: $base-spacing * 2 auto;
     width: 60%;
     line-height: 1.5;
+    font-size: $font-size-s;
 
     @media(max-width: $medium-resolution) {
         width: 75%;
+        font-size: $font-size-xs;
     }
 
     @media(max-width: $tablet-resolution) {
