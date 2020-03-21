@@ -3,14 +3,16 @@ import classnames from 'classnames';
 
 const CLASSNAME = 'button';
 const Button = (props) => {
-    const { children, className, ...buttonProps } = props;
+    const { children, className, asLink, ...buttonProps } = props;
 
     const buttonClassname = classnames(className, CLASSNAME);
 
+    const Tag = asLink ? 'a' : 'button';
+
     return (
-        <button className={buttonClassname} {...buttonProps}>
+        <Tag className={buttonClassname} {...buttonProps}>
             {children}
-        </button>
+        </Tag>
 
     );
 };

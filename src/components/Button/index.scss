@@ -7,6 +7,9 @@
     width: $base-spacing * 20;
     font-size: $font-size-s;
     cursor: pointer;
+    display: block;
+    text-align: center;
+    text-decoration: none;
 
     @media(max-width: $medium-resolution) {
         width: 100%;

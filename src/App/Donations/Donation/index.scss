@@ -2,12 +2,7 @@
     display: flex;
     width: 70%;
     align-items: center;
-    height: 200px;
-
-    @media(max-width: $tablet-resolution) {
-        width: 100%;
-        margin-bottom: $base-spacing * 2;
-    }
+    min-height: 300px;
 
     &__title {
         margin: -$base-spacing auto $base-spacing * 2 auto !important;
@@ -20,5 +15,24 @@
     &__description {
         color: $light-grey;
         line-height: 1.4;
+        margin-bottom: $base-spacing * 3;
+    }
+
+    @media(max-width: $tablet-resolution) {
+        width: 100%;
+        margin-bottom: $base-spacing * 2;
+        display: block;
+        min-height: 400px;
+
+        &__image {
+            margin: 0 auto;
+            display: block;
+        }
+
+        &__content {
+            margin-left: 0;
+            margin-top: $base-spacing * 4;
+            text-align: center;
+        }
     }
 }
