@@ -12,13 +12,16 @@
 
     @media(max-width: $medium-resolution) {
         padding: $base-spacing * 4 $base-spacing * 5 0 $base-spacing * 5 !important;
+        text-align: center;
     }
 
     @media(max-width: $high-resolution) {
         padding: $base-spacing * 3 $base-spacing * 5 0 $base-spacing * 5 !important;
+        text-align: center;
     }
 
     @media(max-width: $tablet-resolution) {
         padding: $base-spacing * 2 $base-spacing * 5 0 $base-spacing * 5 !important;
+        text-align: center;
     }
 }
