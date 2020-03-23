@@ -17,6 +17,10 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="app"></div>
+    <form name="contact-us" netlify netlify-honeypot="bot-field" hidden>
+      <input type="text" name="link" />
+      <textarea name="description"></textarea>
+    </form>
+    <main id="app" role="main"></main>
   </body>
 </html>

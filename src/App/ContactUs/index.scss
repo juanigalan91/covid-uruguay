@@ -13,6 +13,7 @@
     @media(max-width: $tablet-resolution) {
         padding: $base-spacing * 2 $base-spacing * 2 $base-spacing * 5 $base-spacing * 2 !important;
     }
+
     
     &__card {
         width: 60%;
@@ -53,6 +54,7 @@
         @media(max-width: $tablet-resolution) {
             font-size: $font-size-xs;
         }
+
     }
 
     &__link {
