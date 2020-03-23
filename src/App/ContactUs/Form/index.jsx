@@ -95,13 +95,12 @@ const Form = () => {
             <Button type='submit'>
                 {translate('SEND', lang)}
             </Button>
-            { wasApiExecuted && (
-                <Snackbar
-                    text={success ? translate('THANKS', lang) : translate('ERROR', lang)}
-                    success={success}
-                    onHide={() => setWasApiExecuted(false)}
-                />
-            )}
+            <Snackbar
+                text={success ? translate('THANKS', lang) : translate('ERROR', lang)}
+                success={success}
+                onHide={() => setWasApiExecuted(false)}
+                display={wasApiExecuted}
+            />
         </form>
     );
 };

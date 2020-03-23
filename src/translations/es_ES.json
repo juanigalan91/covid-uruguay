@@ -15,5 +15,8 @@
     "LINK_ERROR": "Necesitamos que nos pases un link a la iniciativa para poder agregarla!",
     "SEND": "Enviar",
     "ERROR": "Ups! ¿Podrías intentarlo de nuevo?",
-    "THANKS": "Muchas gracias por interesarte!"
+    "ARE_YOU_A_DEVELOPER": "¿Sos desarrollador web y te interesaría ayudar en el proyecto?",
+    "THANKS": "Muchas gracias por interesarte!",
+    "GO_TO_REPO": "Ir al repositorio",
+    "YOU_CAN_CONTRIBUTE": "Esta página web es Open Source, por lo cual solo necesitás ir al repositorio, realizar un fork del mismo y comenzar a trabajar!"
 }

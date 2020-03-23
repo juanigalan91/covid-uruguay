@@ -16,6 +16,13 @@ const ContactUs = () => {
                 <p className={`${CLASSNAME}__description`}>{translate('WANT_TO_TAKE_PART_OF_THIS_PROJECT', lang)}</p>
                 <Form />
             </Card>
+            <Card className={`${CLASSNAME}__card`}>
+                <Title importance={2} className={`${CLASSNAME}__description`} theme="light">{translate('ARE_YOU_A_DEVELOPER', lang)}</Title>
+                <p className={`${CLASSNAME}__description`}>
+                    {translate('YOU_CAN_CONTRIBUTE', lang)}
+                </p>
+                <a target="_blank" rel="noopener noreferrer" className={`${CLASSNAME}__link`} href="https://www.github.com/juanigalan91/covid-uruguay">{translate('GO_TO_REPO', lang)}</a>
+            </Card>
         </section>
 
     );

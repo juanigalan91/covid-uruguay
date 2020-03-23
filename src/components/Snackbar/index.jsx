@@ -3,8 +3,8 @@ import classnames from 'classnames';
 
 const CLASSNAME = 'snackbar';
 const Snackbar = (props) => {
-    const { text, success, className, onHide, hideAfter = 3000 } = props;
-    const [show, setShow] = React.useState(true);
+    const { text, success, className, onHide, hideAfter = 3000, display = false } = props;
+    const [show, setShow] = React.useState(display);
 
     React.useEffect(() => {
         setTimeout(() => {

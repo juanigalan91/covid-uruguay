@@ -30,4 +30,13 @@
         margin-bottom: $base-spacing * 4;
         font-size: $font-size-s;
     }
+
+    &__link {
+        @extend .text-block;
+        display: block;
+        width: 80%;
+        font-size: $font-size-s;
+        color: $light-blue;
+        text-decoration: none;
+    }
 }
