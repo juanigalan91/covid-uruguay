@@ -1,5 +1,6 @@
 .donations {
     @extend .container;
+    padding: $base-spacing * 5 $base-spacing * 8 $base-spacing * 8 $base-spacing * 8;
 
     &__description {
         @extend .text-block;

@@ -1,0 +1,12 @@
+.navigation {
+    @extend .container;
+    padding: $base-spacing * 4 $base-spacing * 6 0 $base-spacing * 6;
+    width: 70%;
+    text-align: right;
+
+    &__link {
+        text-decoration: none;
+        color: $light-blue;
+        margin-right: $base-spacing;
+    }
+}

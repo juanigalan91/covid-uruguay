@@ -3,6 +3,20 @@
     "DONATIONS_COVID": "Donaciones por COVID19 en Uruguay",
     "PURPOSE": "A continuación podrás encontrar una lista de las diferentes donaciones que podés realizar para ayudar a prevenir y combatir la propagación del COVID19 en Uruguay, así como también aquellos que están trabajando para su tratamiento.",
     "DONATE": "Donar",
+    "DONATIONS": "Donaciones",
+    "COLABORATE": "Colaborar",
     "DISCLAIMER": "El objetivo de esta página es crear el vínculo entre aquellos necesitados y personas que puedan dar esa ayuda. No tomamos responsabilidad de cualquier inconviente que pueda suceder luego del uso de la misma.",
-    "SEE_DETAILS": "Ver detalles"
+    "SEE_DETAILS": "Ver detalles",
+    "DESCRIPTION": "Descripción de la iniciativa",
+    "WANT_TO_TAKE_PART_OF_THIS_PROJECT": "Si conocés alguna iniciativa en Uruguay que está luchando contra el COVID19, completa el formulario y la agregaremos! Solo necesitas escribir la descripción de la iniciativa y una dirección web, ya sea una imagen, un tweet, un página web, etc.",
+    "DO_YOU_WANT_TO_HELP_US": "¿Querés colaborar con esta página?",
+    "LINK": "Dirección web de la iniciativa",
+    "DESCRIPTION_ERROR": "Necesitamos que nos cuentes un poco de la iniciativa para poder agregarla!",
+    "LINK_ERROR": "Necesitamos que nos pases un link a la iniciativa para poder agregarla!",
+    "SEND": "Enviar",
+    "ERROR": "Ups! ¿Podrías intentarlo de nuevo?",
+    "ARE_YOU_A_DEVELOPER": "¿Sos desarrollador web y te interesaría ayudar en el proyecto?",
+    "THANKS": "Muchas gracias por interesarte!",
+    "GO_TO_REPO": "Ir al repositorio",
+    "YOU_CAN_CONTRIBUTE": "Esta página web es Open Source, por lo cual solo necesitás ir al repositorio, realizar un fork del mismo y comenzar a trabajar!"
 }

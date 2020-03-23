@@ -1,0 +1,42 @@
+.contact-us {
+    @extend .container;
+    padding: $base-spacing * 5 $base-spacing * 8 $base-spacing * 8 $base-spacing * 8;
+    
+    &__card {
+        width: 60%;
+        margin: $base-spacing * 4 auto;
+
+        @media(max-width: $medium-resolution) {
+            margin: $base-spacing * 2 auto;
+            width: 90%;
+        }
+    
+        @media(max-width: $tablet-resolution) {
+            margin: $base-spacing * 4 auto;
+            width: 90%;
+        }
+    }
+
+    &__form {
+        @extend .text-block;
+        width: 80%;
+        padding-top: $base-spacing;
+    }
+
+    &__description {
+        @extend .text-block;
+        color: $light-grey;
+        width: 80%;
+        margin-bottom: $base-spacing * 4;
+        font-size: $font-size-s;
+    }
+
+    &__link {
+        @extend .text-block;
+        display: block;
+        width: 80%;
+        font-size: $font-size-s;
+        color: $light-blue;
+        text-decoration: none;
+    }
+}
