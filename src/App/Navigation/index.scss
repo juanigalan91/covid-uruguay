@@ -1,0 +1,4 @@
+.navigation {
+    @extend .container;
+    padding: $base-spacing * 2 $base-spacing * 6 0 $base-spacing * 6;
+}
