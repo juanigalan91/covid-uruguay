@@ -5,7 +5,7 @@ import { Donation } from './Donation';
 const CLASSNAME = 'donations';
 const Donations = ({ donations }) => {
     React.useLayoutEffect(() => {
-        if (twttr && twttr.widgets && twttr.widgets.load) {
+        if (typeof twttr !== 'undefined' && twttr && twttr.widgets && twttr.widgets.load) {
             twttr.widgets.load();
         }
     });
