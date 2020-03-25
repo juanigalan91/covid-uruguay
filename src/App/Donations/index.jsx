@@ -9,6 +9,7 @@ const Donations = ({ donations }) => {
             twttr.widgets.load();
         }
     });
+
     return (
         <section className={CLASSNAME}>
             <div className={`${CLASSNAME}__list`}>

@@ -73,6 +73,16 @@
             "entity": "Centro Educativo Providencia",
             "logo": "https://pbs.twimg.com/profile_images/1055523938644738049/1qVUhdWh_400x400.jpg",
             "image": "centro-providencia.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Construcción de Respiradores",
+            "entity": "",
+            "logo": "icon.png",
+            "description": {
+                "es_ES": "Se están fabricando respiradores artificiales para poder hacer frente a la posible saturación en plaza por el COVID-19.  Lo que se necesita específicamente son motores PAP, o motores de corriente continua.  Toda impresora o lectoras de CD lo contienen.  También se necesitan placas Arduino o Raspberry Pi."
+            },
+            "details": "https://docs.google.com/forms/d/e/1FAIpQLSeV8kH5kqNAN6qUbpFPpCkQfAv4fB3Acm1YetY3TUe9Iv5WHQ/viewform"
         }
     ]
 }
