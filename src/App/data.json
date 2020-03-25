@@ -83,6 +83,16 @@
                 "es_ES": "Se están fabricando respiradores artificiales para poder hacer frente a la posible saturación en plaza por el COVID-19.  Lo que se necesita específicamente son motores PAP, o motores de corriente continua.  Toda impresora o lectoras de CD lo contienen.  También se necesitan placas Arduino o Raspberry Pi."
             },
             "details": "https://docs.google.com/forms/d/e/1FAIpQLSeV8kH5kqNAN6qUbpFPpCkQfAv4fB3Acm1YetY3TUe9Iv5WHQ/viewform"
+        },
+        {
+            "id": 9,
+            "name": "#NosCuidamosEntreTodos",
+            "entity": "Sistema de Salud Uruguayo",
+            "logo": "https://www.colectate.com.uy/images/10488/Perfil_REDES.png",
+            "description": {
+                "es_ES": "Somos un grupo de empresarios que queremos ayudar en este momento tan especial. El sector público está haciendo su máximo esfuerzo, pero el sector privado también puede colaborar. Si pensás lo mismo que nosotros, aquí tenés la herramienta para hacerlo. <br/>TU DONACIÓN VALE DOBLE. <br/><br/>Por cada donación personal, nosotros donaremos la misma cantidad, duplicando cada aporte para ayudar aún más."
+            },
+            "link": "https://bit.ly/2U1hjnu"
         }
     ]
 }
