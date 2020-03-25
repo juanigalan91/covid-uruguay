@@ -12,7 +12,7 @@ const Donation = (props) => {
 
     return (
         <Card className={CLASSNAME}>
-            { logo && <img className={`${CLASSNAME}__logo`} src={logo} alt={name} /> }
+            { logo && <img className={`${CLASSNAME}__logo`} src={logo} alt={name} loading="lazy" /> }
             <div className={`${CLASSNAME}__content`}>
                 { name && <Title className={`${CLASSNAME}__title`} importance={2} theme="dark">{name}</Title> }
                 { description && <p className={`${CLASSNAME}__description`} dangerouslySetInnerHTML={{ __html: description[lang] }} /> }
@@ -37,7 +37,7 @@ const Donation = (props) => {
                     )
                 }
                 {
-                    image && <img className={`${CLASSNAME}__image`} src={image} alt={name} />
+                    image && <img className={`${CLASSNAME}__image`} src={image} alt={name} loading="lazy" />
                 }
             </div>
         </Card>
