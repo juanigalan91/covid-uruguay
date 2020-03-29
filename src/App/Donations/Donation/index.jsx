@@ -25,7 +25,7 @@ const Donation = (props) => {
                 }
                 {
                     details && (
-                        <Button className={`${CLASSNAME}__action`} asLink href={link} target="_blank">
+                        <Button className={`${CLASSNAME}__action`} asLink href={details} target="_blank">
                             {translate('SEE_DETAILS', lang)}
                         </Button>
                     )

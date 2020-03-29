@@ -114,6 +114,16 @@
             "entity": "Twitter",
             "logo": "icon.png",
             "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Va hilo con info sobre ollas populares en Uruguay empezando por <a href=\"https://t.co/9bR49sZ664\">pic.twitter.com/9bR49sZ664</a></p>&mdash; Papina De Palma (@papinadepalma) <a href=\"https://twitter.com/papinadepalma/status/1243712961853743105?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>"
+        },
+        {
+            "id": 13,
+            "name": "CanastasUY",
+            "entity": "",
+            "logo": "https://scontent-mrs2-1.cdninstagram.com/v/t51.2885-19/s320x320/90234963_616106472274830_2676933311779045376_n.jpg?_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_ohc=uxSEbiQ4fx4AX-noq1P&oh=0db9845b1e6e77cf572f265c4cc628e2&oe=5EA966DA",
+            "description": {
+                "es_ES": "Sumamos voluntades para comprar canastas de comida, a entregar a familias que lo necesitan. <br/> <br/>¡Sumate! 🇺🇾 💙 te necesita."
+            },
+            "details": "https://www.instagram.com/canastasuy/"
         }
     ]
 }
