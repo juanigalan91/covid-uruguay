@@ -134,6 +134,13 @@
                 "es_ES": "Apoyá a los comercios gastronómicos. <br/> <br/> Comprá hoy un voucher con descuento, y ayudá a tu comercio favorito a surfear la ola."
             },
             "link": "https://lodesiempre.uy/"
+        },
+        {
+            "id": 16,
+            "name": "juntos podemos 2020",
+            "entity": "juntos podemos 2020",
+            "logo": "https://pbs.twimg.com/profile_images/1243680371876810753/RVZRC6lD_400x400.jpg",
+            "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">¿Quiénes somos y qué buscamos? <a href=\"https://twitter.com/hashtag/juntospodemosuy?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemosuy</a> <a href=\"https://twitter.com/hashtag/juntospodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemos</a> <a href=\"https://t.co/53MLUbvyTM\">pic.twitter.com/53MLUbvyTM</a></p>&mdash; juntos.podemos.2020 (@2020Juntos) <a href=\"https://twitter.com/2020Juntos/status/1243720675304640514?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>"
         }
     ]
 }
