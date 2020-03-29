@@ -85,7 +85,7 @@
             "details": "https://docs.google.com/forms/d/e/1FAIpQLSeV8kH5kqNAN6qUbpFPpCkQfAv4fB3Acm1YetY3TUe9Iv5WHQ/viewform"
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "#NosCuidamosEntreTodos",
             "entity": "Sistema de Salud Uruguayo",
             "logo": "https://www.colectate.com.uy/images/10488/Perfil_REDES.png",
@@ -95,28 +95,28 @@
             "link": "https://bit.ly/2U1hjnu"
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Colaborá sin salir de tu casa",
             "entity": "#ColaboraDesdeCasa",
             "logo": "icon.png",
             "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Una forma de colaborar con los que más están sufriendo por <a href=\"https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw\">#COVID19</a>, sin salir de tu casa. Vamos a salir <a href=\"https://twitter.com/hashtag/entretodos?src=hash&amp;ref_src=twsrc%5Etfw\">#entretodos</a>. <a href=\"https://twitter.com/hashtag/Uruguay?src=hash&amp;ref_src=twsrc%5Etfw\">#Uruguay</a> <a href=\"https://twitter.com/hashtag/ColaboroDesdeCasa?src=hash&amp;ref_src=twsrc%5Etfw\">#ColaboroDesdeCasa</a> (cc <a href=\"https://twitter.com/thisissanty?ref_src=twsrc%5Etfw\">@thisissanty</a>) <a href=\"https://t.co/FawbylX1co\">pic.twitter.com/FawbylX1co</a></p>&mdash; Nicolás Albertoni (@N_Albertoni) <a href=\"https://twitter.com/N_Albertoni/status/1244135170128543744?ref_src=twsrc%5Etfw\">March 29, 2020</a></blockquote>"
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "#PlanNacionalCoronavirus",
             "entity": "Ministerio de Desarrollo Social",
             "logo": "https://pbs.twimg.com/profile_images/1237775907705798657/tS7Bqu8w_400x400.jpg",
             "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">🤝 Te invitamos a inscribirte al programa de <a href=\"https://twitter.com/hashtag/Voluntariado?src=hash&amp;ref_src=twsrc%5Etfw\">#Voluntariado</a> para colaborar con el <a href=\"https://twitter.com/hashtag/PlanNacionalCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw\">#PlanNacionalCoronavirus</a> <br><br>¡Sumate y participá para transformar! <a href=\"https://twitter.com/hashtag/JuntosPodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#JuntosPodemos</a><br><br>👉 <a href=\"https://t.co/npKfLPc3ln\">https://t.co/npKfLPc3ln</a> <a href=\"https://t.co/8Z4TfRM86f\">pic.twitter.com/8Z4TfRM86f</a></p>&mdash; Ministerio de Desarrollo Social (@midesuy) <a href=\"https://twitter.com/midesuy/status/1243640929484967936?ref_src=twsrc%5Etfw\">March 27, 2020</a></blockquote>"
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "Ollas populares",
             "entity": "Twitter",
             "logo": "icon.png",
             "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Va hilo con info sobre ollas populares en Uruguay empezando por <a href=\"https://t.co/9bR49sZ664\">pic.twitter.com/9bR49sZ664</a></p>&mdash; Papina De Palma (@papinadepalma) <a href=\"https://twitter.com/papinadepalma/status/1243712961853743105?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>"
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "CanastasUY",
             "entity": "",
             "logo": "https://scontent-mrs2-1.cdninstagram.com/v/t51.2885-19/s320x320/90234963_616106472274830_2676933311779045376_n.jpg?_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_ohc=uxSEbiQ4fx4AX-noq1P&oh=0db9845b1e6e77cf572f265c4cc628e2&oe=5EA966DA",
@@ -124,6 +124,16 @@
                 "es_ES": "Sumamos voluntades para comprar canastas de comida, a entregar a familias que lo necesitan. <br/> <br/>¡Sumate! 🇺🇾 💙 te necesita."
             },
             "details": "https://www.instagram.com/canastasuy/"
+        },
+        {
+            "id": 15,
+            "name": "lodesiempre.uy",
+            "entity": "lodesiempre.uy",
+            "logo": "icon.png",
+            "description": {
+                "es_ES": "Apoyá a los comercios gastronómicos. <br/> <br/> Comprá hoy un voucher con descuento, y ayudá a tu comercio favorito a surfear la ola."
+            },
+            "link": "https://lodesiempre.uy/"
         }
     ]
 }
