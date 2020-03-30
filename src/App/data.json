@@ -141,6 +141,16 @@
             "entity": "juntos podemos 2020",
             "logo": "https://pbs.twimg.com/profile_images/1243680371876810753/RVZRC6lD_400x400.jpg",
             "tweet": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">¿Quiénes somos y qué buscamos? <a href=\"https://twitter.com/hashtag/juntospodemosuy?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemosuy</a> <a href=\"https://twitter.com/hashtag/juntospodemos?src=hash&amp;ref_src=twsrc%5Etfw\">#juntospodemos</a> <a href=\"https://t.co/53MLUbvyTM\">pic.twitter.com/53MLUbvyTM</a></p>&mdash; juntos.podemos.2020 (@2020Juntos) <a href=\"https://twitter.com/2020Juntos/status/1243720675304640514?ref_src=twsrc%5Etfw\">March 28, 2020</a></blockquote>"
+        },
+        {
+            "id": 17,
+            "name": "Aldeas infantiles",
+            "entity": "Aldeas infantiles",
+            "logo": "https://pbs.twimg.com/profile_images/436887231936999425/LFNkL483_400x400.jpeg",
+            "description": {
+                "es_ES": "De cara a la emergencia sanitaria provocada por el coronavirus, Aldeas Infantiles necesita más que nunca de la colaboración de los/las uruguayos/as para seguir haciendo posible que más de 1895 niños, niñas y adolescentes puedan mantener la calidad en su alimentación, acceder a artículos de limpieza e higiene y realizar actividades de recreación. Con tu apoyo lo podemos lograr."
+            },
+            "link": "https://aldeasinfantiles.org.uy/dona"
         }
     ]
 }
